@@ -1,0 +1,66 @@
+# Welcome to the Dashboard
+
+The **COVID-19 pandemic**, caused by *SARS-CoV-2*, has profoundly impacted our world. Over the past few years, it has:
+
+- Claimed millions of lives.
+- Disrupted economies.
+- Challenged healthcare systems globally.
+
+The virus's rapid evolution into multiple variants highlights the ongoing challenges of managing infectious diseases in an interconnected world.
+
+This dashboard is designed to help you:
+
+- **Understand what a pandemic is** and its global impact.
+- **Explore the coronavirus's molecular structure**, including its key protein, the spike protein.
+
+---
+
+## What Is a Protein?
+
+Proteins are essential molecules in all living organisms, composed of long chains of amino acids. They are often called the "workhorses" of the cell because they perform a vast array of functions, including:
+
+- Providing structural support.
+- Enabling chemical reactions (as enzymes).
+- Acting as signaling molecules.
+
+In viruses like *SARS-CoV-2*, the spike protein plays a crucial role by allowing the virus to attach to and enter human cells, making it a key target for vaccines and therapeutics.
+
+---
+
+## Key Features
+
+- **Explore SARS-CoV-2 Structure**  
+  Dive into the molecular structure of the virus, focusing on the spike protein and its role in infectiousness and virulence.
+
+- **Visualize Vaccination Rates and Global Disparities**  
+  Track vaccination progress worldwide and identify regions where access remains limited.
+
+---
+
+## How to Use This Dashboard
+
+1. Use the sidebar to navigate between sections.  
+2. Interact with 3D visualizations and data charts to uncover trends and insights.  
+3. Click the **information icons** on each page for additional guidance and explanations.  
+
+By clicking the buttons at the bottom, you can jump directly to the page of your interest. Each page includes details about what you're viewing and how to interact with it. Have fun exploring!
+
+---
+
+## Learn More
+
+Visit the [World Health Organization (WHO)](https://www.who.int) for up-to-date resources on COVID-19.  
+
+---
+
+### References
+
+- **WHO Data Portal:** [https://data.who.int/](https://data.who.int/)  
+- Xia, X. *Domains and Functions of Spike Protein in SARS-CoV-2 in the Context of Vaccine Design.* Viruses. 2021; 13(1):109.  
+  [DOI: 10.3390/v13010109](https://doi.org/10.3390/v13010109)  
+- Vogel, A.B., Kanevsky, I., Che, Y. et al. *BNT162b vaccines protect rhesus macaques from SARS-CoV-2.* Nature, 592, 283–289 (2021).  
+  [DOI: 10.1038/s41586-021-03275-y](https://doi.org/10.1038/s41586-021-03275-y)  
+- EMA (European Medicines Agency):  
+  [Comirnaty Information](https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty)
+- **NGLVieweR:** Niels van der Velden (2024). R package version 1.4.0.
+

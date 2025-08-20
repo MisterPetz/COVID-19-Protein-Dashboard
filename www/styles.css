@@ -1,0 +1,121 @@
+.dashboard-container {
+  font-family: 'Georgia', serif; /* Elegant serif font for a luxurious feel */
+  line-height: 1.8;
+  color: #2C3E50; /* Rich dark slate color */
+  padding: 25px;
+  background: linear-gradient(145deg, #ffffff, #f0f0f0); /* Subtle gradient for a premium look */
+  border-radius: 15px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); /* Larger shadow for depth */
+}
+
+.dashboard-title {
+  font-size: 2.8em;
+  color: #8E44AD; /* Rich purple for a royal touch */
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.dashboard-intro {
+  font-size: 1.2em;
+  margin-bottom: 25px;
+  color: #34495E;
+}
+
+.dashboard-list, .references-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.dashboard-list, .references-list {
+  list-style-type: disc; /* Use standard disc bullets */
+  list-style-position: inside; /* Ensure bullets are aligned with the text */
+  padding-left: 20px; /* Adjust spacing for better alignment */
+  margin: 10px 0; /* Add spacing between items */
+}
+
+.dashboard-list li, .references-list li {
+  font-size: 1.1em;
+  color: #2C3E50; /* Rich dark color */
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.section-title {
+  font-size: 2em;
+  color: #8E44AD;
+  margin-top: 35px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #8E44AD; /* Underline for a polished look */
+  padding-bottom: 5px;
+}
+
+.section-content {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+  color: #34495E;
+}
+
+.dashboard-steps li {
+  margin: 15px 0;
+  padding-left: 40px;
+  list-style: none;
+  position: relative;
+  font-size: 1.1em;
+  border-left: 3px solid #3498DB; /* Blue vertical line for steps */
+  padding-left: 15px;
+}
+
+
+.references-title {
+  font-size: 1.7em;
+  color: #6C757D;
+  margin-top: 25px;
+  font-weight: bold;
+}
+
+a {
+  color: #2980B9;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 2px solid #2980B9; /* Underlined links for a stylish touch */
+}
+
+a:hover {
+  color: #1ABC9C;
+  border-bottom: 2px solid #1ABC9C;
+}
+.button-container {
+  margin-top: 20px;
+  text-align: center; /* Center the buttons horizontally */
+}
+
+.button-container .btn-primary {
+  background-color: #3498DB; /* Blue for Structure Data button */
+  border-color: #2980B9;
+}
+
+.button-container .btn-success {
+  background-color: #27AE60; /* Green for Envelope button */
+  border-color: #1E8449;
+}
+
+.button-container .btn-secondary {
+  background-color: #8E44AD; /* Purple for Map button */
+  border-color: #7D3C98;
+}
+
+.button-container .btn {
+  margin: 5px 10px; /* Add spacing between buttons */
+  padding: 10px 20px; /* Increase padding for a richer look */
+  font-size: 1.1em; /* Slightly larger font for visibility */
+  color: white; /* White text */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.button-container .btn:hover {
+  opacity: 0.9; /* Slight hover effect */
+}
+
